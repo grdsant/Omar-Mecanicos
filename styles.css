@@ -339,7 +339,12 @@ footer img{
 footer .numero{
 	color: whitesmoke;
 	font-size: 28px;
-	margin-bottom: 100px;
+	margin-bottom: 50px;
+}
+footer .Horario{
+	color: whitesmoke;
+	font-size: 24px;
+	margin-bottom: 50px;
 }
 footer .copy {
 	width: 100%;
